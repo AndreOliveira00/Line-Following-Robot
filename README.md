@@ -10,5 +10,5 @@ The project in question seeks to develop an implementation of a dynamic and prop
 </p>
 
 
-(https://github.com/AndreOliveira00/Line-Following-Robot/blob/main/take_1_agv_map.gif)](https://github.com/AndreOliveira00/Line-Following-Robot/blob/main/take_1_agv_map.gif)
+(take_1_agv_map.gif)](take_1_agv_map.gif)
 

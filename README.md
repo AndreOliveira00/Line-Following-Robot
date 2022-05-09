@@ -6,7 +6,7 @@ The project in question seeks to develop an implementation of a dynamic and prop
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72403325/167471234-eae6e5d2-31df-4357-936f-2044900b9274.png" data-canonical-src="https://user-images.githubusercontent.com/72403325/167471234-eae6e5d2-31df-4357-936f-2044900b9274.png" width="528" height="395" />
+<img src="https://user-images.githubusercontent.com/72403325/167475443-dde1c7c7-882d-44be-9964-44d7e4cf7693.png" data-canonical-src="https://user-images.githubusercontent.com/72403325/167475443-dde1c7c7-882d-44be-9964-44d7e4cf7693.png" width="528" height="395" />
 </p>
 
 

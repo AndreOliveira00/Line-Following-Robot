@@ -9,4 +9,6 @@ The project in question seeks to develop an implementation of a dynamic and prop
 <img src="https://user-images.githubusercontent.com/72403325/167471234-eae6e5d2-31df-4357-936f-2044900b9274.png" data-canonical-src="https://user-images.githubusercontent.com/72403325/167471234-eae6e5d2-31df-4357-936f-2044900b9274.png" width="528" height="395" />
 </p>
 
-https://github.com/AndreOliveira00/Line-Following-Robot/blob/main/take_1_agv_map.gif
+
+(https://github.com/AndreOliveira00/Line-Following-Robot/blob/main/take_1_agv_map.gif)](https://github.com/AndreOliveira00/Line-Following-Robot/blob/main/take_1_agv_map.gif)
+

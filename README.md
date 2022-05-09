@@ -10,5 +10,6 @@ The project in question seeks to develop an implementation of a dynamic and prop
 </p>
 
 
-(take_1_agv_map.gif)](take_1_agv_map.gif)
-
+<p align="center">
+<img src="take_1_agv_map.gif" data-canonical-src="take_1_agv_map.gif"
+</p>

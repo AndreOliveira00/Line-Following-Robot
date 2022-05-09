@@ -152,7 +152,7 @@ class Follow_Line:
             
             if len(points) == 2 and (points[1][0] - points[0][0]) in range(40,200):
          
-                cv2.circle(th2, (mean(points[0][0],points[1][0]),y),1, (255, 255, 255), 5)   
+                cv2.circle(th2, (mean(points[0][0],points[1][0]),y),1, (255, 255, 255), 2)   
                 mean_point.append([mean(points[0][0],points[1][0]),y])
             if len(mean_point) > 4:
                 break

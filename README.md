@@ -17,20 +17,5 @@ The project in question seeks to develop an implementation of a dynamic and prop
 </p>
 
 
-<div class="video">
-  <video autoplay controls id="video_intro" poster="/img/loading-vid.png" width="640" height="360">
-    <source src="/Takes/Image_processing.mp4" type="/Takes/Image_processing.mp4" />
-    <object class="vid-object" type="application/x-shockwave-flash" data="/video/player.swf" width="640" height="360">
-      <param name="allowfullscreen" value="true">
-      <param name="allowscriptaccess" value="always">
-      <param name="flashvars" value="file=/video/intro.mp4&amp;autostart=true">
-      <param name="wmode" value="opaque">
-      <!--[if IE]><param name="movie" value="/video/player.swf"><![endif]-->
-      <img src="/Takes/Image_processing.mp4" alt="LyondellBasell">
-      <p>Your browser can’t play HTML5 video. <a href="/video/intro.webm">
-  Download it</a> instead.</p>
-    </object>
-  </video>
-</div><!-- /.video -->
-
+/Takes/Image_processing.mp4
 

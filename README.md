@@ -22,6 +22,13 @@ The project in question seeks to develop an implementation of a dynamic and prop
 </p>
 
 
+<p align="center">
+<video src="https://user-images.githubusercontent.com/72403325/168483547-5f3ccd66-37a4-4764-afac-a2a067f34b89.mp4" data-canonical-src="https://user-images.githubusercontent.com/72403325/168483547-5f3ccd66-37a4-4764-afac-a2a067f34b89.mp4" width="528" height="400" controls="controls" muted="muted" >
+</video>
+</p>
+
+
+
 
 
 

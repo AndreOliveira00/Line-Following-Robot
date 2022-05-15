@@ -23,7 +23,7 @@ The project in question seeks to develop an implementation of a dynamic and prop
 
 
 <p align="center">
-<video controls muted>
+<video id="video" style="width:100%; height:100%" autoplay [muted]="'muted'" loop>
   <source src="https://user-images.githubusercontent.com/72403325/168483547-5f3ccd66-37a4-4764-afac-a2a067f34b89.mp4" type="video/mp4">
 </video>
 </p>

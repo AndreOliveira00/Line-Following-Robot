@@ -15,3 +15,7 @@ The project in question seeks to develop an implementation of a dynamic and prop
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72403325/167475443-dde1c7c7-882d-44be-9964-44d7e4cf7693.png" data-canonical-src="https://user-images.githubusercontent.com/72403325/167475443-dde1c7c7-882d-44be-9964-44d7e4cf7693.png" width="528" height="395" />
 </p>
+
+<p align="center">
+<img src="Image_processing.mp4" data-canonical-src="Image_processing.mp4"
+</p>

@@ -8,7 +8,7 @@ The project in question seeks to develop an implementation of a dynamic and prop
 
 ## Practical Demonstration of the Prototype
 <p align="center">
-<img src="take_1_agv_map.gif" data-canonical-src="take_1_agv_map.gif"
+<img src="/Takes/take_1_agv_map.gif" data-canonical-src="/Takes/take_1_agv_map.gif"
 </p>
 
 ## Image Processing

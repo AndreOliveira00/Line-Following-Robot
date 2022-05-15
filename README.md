@@ -17,5 +17,7 @@ The project in question seeks to develop an implementation of a dynamic and prop
 </p>
 
 <p align="center">
-<img src="Image_processing.mp4" data-canonical-src="Image_processing.mp4"
+ <source src="/Takes/Image_processing.mp4" type="Takes/Image_processing.mp4" width="528" height="395" />
 </p>
+
+

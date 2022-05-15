@@ -22,12 +22,6 @@ The project in question seeks to develop an implementation of a dynamic and prop
 </p>
 
 
-<p align="center">
-<video id="video" style="width:100%; height:100%" autoplay [muted]="'muted'" loop>
-  <source src="/Takes/Image_processing.mp4" type="video/mp4">
-</video>
-</p>
-
 
 
 

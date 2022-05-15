@@ -16,7 +16,7 @@ The project in question seeks to develop an implementation of a dynamic and prop
 <img src="https://user-images.githubusercontent.com/72403325/167475443-dde1c7c7-882d-44be-9964-44d7e4cf7693.png" data-canonical-src="https://user-images.githubusercontent.com/72403325/167475443-dde1c7c7-882d-44be-9964-44d7e4cf7693.png" width="528" height="395" />
 </p>
 
-<video src="https://user-images.githubusercontent.com/72403325/168482733-d6f643c3-5de9-479f-8cf4-486ee372b558.mp4" data-canonical-src="https://user-images.githubusercontent.com/72403325/168482733-d6f643c3-5de9-479f-8cf4-486ee372b558.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+<p align="center">
+<video src="https://user-images.githubusercontent.com/72403325/168482733-d6f643c3-5de9-479f-8cf4-486ee372b558.mp4" data-canonical-src="https://user-images.githubusercontent.com/72403325/168482733-d6f643c3-5de9-479f-8cf4-486ee372b558.mp4" width="528" height="400" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 </video>
-
-
+</p>

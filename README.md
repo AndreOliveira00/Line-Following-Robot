@@ -17,6 +17,6 @@ The project in question seeks to develop an implementation of a dynamic and prop
 </p>
 
 <p align="center">
-<video src="/Takes/Image_processing.mp4" data-canonical-src="/Takes/Image_processing.mp4" width="528" height="400" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+<video src="/Takes/Image_processing.mp4" data-canonical-src="/Takes/Image_processing.mp4" width="528" height="400" controls="controls" muted="muted" >
 </video>
 </p>

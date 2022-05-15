@@ -8,7 +8,7 @@ The project in question seeks to develop an implementation of a dynamic and prop
 
 ## Practical Demonstration of the Prototype
 <p align="center">
-<img src="take_1_agv_map.gif" data-canonical-src="take_1_agv_map.gif"
+<img src="/Takes/take_1_agv_map.gif" data-canonical-src="/Takes/take_1_agv_map.gif"
 </p>
 
 ## Image Processing
@@ -17,7 +17,6 @@ The project in question seeks to develop an implementation of a dynamic and prop
 </p>
 
 <p align="center">
- <source src="/Takes/Image_processing.mp4" type="Takes/Image_processing.mp4" width="528" height="395" />
+<video src="https://user-images.githubusercontent.com/72403325/168482733-d6f643c3-5de9-479f-8cf4-486ee372b558.mp4" data-canonical-src="https://user-images.githubusercontent.com/72403325/168482733-d6f643c3-5de9-479f-8cf4-486ee372b558.mp4" width="528" height="400" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+</video>
 </p>
-
-
